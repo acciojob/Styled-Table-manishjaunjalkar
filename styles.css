@@ -1,1 +1,14 @@
 /* your code */
+.table{
+	border:1px solid grey;
+	border-radius:10px;
+	
+}
+td, th{
+	padding:10px;
+}
+.row-heading{
+	background-color:blue;
+	
+}
+
